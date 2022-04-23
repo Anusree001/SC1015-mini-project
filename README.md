@@ -1,4 +1,4 @@
-# SC1015-mini-project
+# SC1015-mini-project, ECAD1, Predicting happiness index
 # Background+Table of content
 In this mini project, we will be predicting happiness indexes of all the different regions in the world.
 
