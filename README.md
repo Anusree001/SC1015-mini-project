@@ -34,7 +34,7 @@ Whether the variables of GDP Per Capita, Freedom to make life choices and Percep
 
 
 # Conclusion
-For models that give a more accurate prediction, they are mostly regions with a higher number of developed countries.Factors affecting happiness level in developed countries is different from that of developing countries, hence we cannot generalise the variables to predict happiness index.
+For models that give a more accurate prediction, they are mostly regions with a higher number of developed countries. Factors affecting happiness level in developed countries is different from that of developing countries, hence we cannot generalise the variables to predict happiness index.
 
 # What we learned
 1. Random Forest regression
