@@ -8,7 +8,7 @@ In our repository,
 3. Presentation slides
 
 # Problem definition
-Whether the variables determining the happiness index (ladder score) of the highest ranked region, can be used to det ermine the happiness index of other regions.
+Whether the variables determining the happiness index (ladder score) of the highest ranked region, can be used to determine the happiness index of other regions.
 
 
 # EDA process
