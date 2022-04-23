@@ -28,7 +28,7 @@ Whether the variables of GDP Per Capita, Freedom to make life choices and Percep
 
 # Solution Pathway
 1. Training and testing all three models on Western Europe data set for all three variables.
-2. Determining the best model to tell on all other regions.
+2. Determining the best model to test on all other regions.
 3. Analysing accuracy of predictions.
 
 
