@@ -12,24 +12,26 @@ Whether the variables determining the happiness index (ladder score) of the high
 
 
 # EDA process
-1.Dropping of unnecessary columns
-2.Renaming columns to combine data
-3.Checking of NULL values
-4.Skewness of Data
+1. Dropping of unnecessary columns
+2. Renaming columns to combine data
+3. Checking of NULL values
+4. Skewness of Data
 
 # Updated problem statement after EDA
 Whether the variables of GDP Per Capita, Freedom to make life choices and Perceptions of Corruption for Western Europe can be used to determine the happiness index of other regions
 
 
 # Tools used for Machine Learning
-1.Univariate Linear Regression
-2.Random Forest
-3.XGBoost
+1. Univariate Linear Regression
+2. Random Forest
+3. XGBoost
 
 # Solution Pathway
-1.Training and testing all three models on Western Europe data set for all three variables.
-2.Determining the best model to tell on all other regions.
-3.Analysing accuracy of predictions.
+1. Training and testing all three models on Western Europe data set for all three variables.
+2. Determining the best model to tell on all other regions.
+3. Analysing accuracy of predictions.
+
+
 
 # Conclusion
 For models that give a more accurate prediction, they are mostly regions with a higher number of developed countries
