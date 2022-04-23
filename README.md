@@ -12,10 +12,9 @@ Whether the variables determining the happiness index (ladder score) of the high
 
 
 # EDA process
-1. Dropping of unnecessary columns
-2. Renaming columns to combine data
-3. Checking of NULL values
-4. Skewness of Data
+1. Data Cleaning
+2. Data Visualisation
+
 
 # Updated problem statement after EDA
 Whether the variables of GDP Per Capita, Freedom to make life choices and Perceptions of Corruption for Western Europe can be used to determine the happiness index of other regions
@@ -48,7 +47,7 @@ Anusree Sreekumar, Aruna D/O Vadivelu, Shi Xinyu
 # Refrences
 https://towardsdatascience.com/how-to-use-pca-tsne-xgboost-and-finally-bayesian-optimization-to-predict-the-price-of-houses-626dbaf242ae
 https://towardsdatascience.com/random-forest-ca80e56224c1
-
+https://www.kaggle.com/datasets/mathurinache/world-happiness-report?select=2021.csv
 
 
 
