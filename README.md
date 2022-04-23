@@ -14,6 +14,7 @@ Whether the variables determining the happiness index (ladder score) of the high
 # EDA process
 1. Data Cleaning
 2. Data Visualisation
+3. Choosing regions and factors that affet happiness index
 
 
 # Updated problem statement after EDA
